@@ -3850,12 +3850,13 @@ section.lazy-placeholder:after {
 }
 .cid-rXepk85qZo .mbr-section-subtitle {
   color: #767676;
+  text-align: left;
 }
 .cid-rXepk85qZo H2 {
   text-align: left;
 }
 .cid-rXepkp1Spr {
-  padding-top: 60px;
+  padding-top: 15px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
